@@ -1,7 +1,8 @@
 ### Setup
 - Clone this repo
+```
 git clone https://github.com/reveurrafc/imageinpainting.git
-
+```
 Install the required libraries(./requirements.txt)
 
 ### Run
